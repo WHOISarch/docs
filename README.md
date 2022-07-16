@@ -1,5 +1,4 @@
 
-
 ![logo](http://logo.whoisarch.com/2/cover.png)
 
 # [docs.whoisarch.com](https://docs.whoisarch.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/whoisarch/docs/edit/main/DOCS/MENU.md)
